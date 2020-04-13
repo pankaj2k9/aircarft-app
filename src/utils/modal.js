@@ -77,7 +77,7 @@ const CustomModal = (props) => {
     getArrivalByAirport()
     getDepratureByAirport()
     getFlightInfoData()
-  }, [cityId, getArrivalByAirport, getDepratureByAirport, getFlightInfoData])
+  }, [cityId])
 
   const onSelectHandler = (event) => {
     setDiffeenceBetweenTime(event.target.value)
