@@ -1,5 +1,5 @@
-const USERNAME = "pankaj2k9"
-const PASSWORD = "5369122d"
+const USERNAME = "your username"
+const PASSWORD = "your password"
 
 const customHeaders = new Headers()
 
